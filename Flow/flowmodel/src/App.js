@@ -14,8 +14,8 @@ const App = () => {
     <Router>
       <Routes>
         {/* Define routes */}
-        <Route path="/" element={<Login />} /> {/* Default route for Login */}
-        <Route path="/forget" element={<Signup/>} /> {/* Route for Signup */}
+        <Route path="/" element={<Login />} /> 
+        <Route path="/forget" element={<Signup/>} /> 
         <Route path="/forgetpassword" element={<Forgetpassword />} />
         <Route path="/resetlink" element={<Forgetpasswordremind />} />
         <Route path="/changepassword" element={<Changepassword/>} />

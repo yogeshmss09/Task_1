@@ -33,7 +33,7 @@ This will launch the application in your default web browser. You will see the l
 
 The flow of the application is as follows:
 
-1. Login Page: Users are presented with options to sign in, sign up, or recover their password.
+1. **Login Page**: Users are presented with options to sign in, sign up, or recover their password.
 2. **Sign In**: Users can sign in with their credentials.
 3. **Sign Up**: New users can register for an account.
 4. **Forget Password**: Users can request a password reset if forgotten.

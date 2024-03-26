@@ -1,0 +1,9 @@
+.forgot-password{
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+}
+.signup{
+    align-items: center;
+    text-align: center;
+}

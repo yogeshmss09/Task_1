@@ -1,0 +1,8 @@
+.click-underline{
+    text-decoration: underline; 
+    cursor: pointer;
+}
+.forgotpasswordremind{
+    align-items: center;
+    text-align: center;
+}
